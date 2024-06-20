@@ -1,5 +1,5 @@
 // console.log ("hello ")
-// console.log ("hey" )
+//  console.log ("hey" )
 
 // variables 
 //  let messages="the password is incorrect";
@@ -59,8 +59,8 @@
  
 
 // 6 .undefine
-//  let data;
-// console.log(data)
+//   let data;
+//  console.log(data)
 
 // 7. object for more complex data structures.
 
@@ -78,20 +78,19 @@
 // alert(apples + oranges)
 
 // 1.arithmetic operator
-// a1 = 20; 
-// a2 = 30;
-// a3 = a1 + a2;
-// console.log(a3)
+//  a1 = 20; 
+//  a2 = 30;
+//  a3 = a1 + a2;
+//  console.log(a3)
 
 // 2.assignment operator
-// a1 = 20; //a1 = 20+
-// a1 = 30;
+//  a1 = 20; //a1 = 20+
+//  a1 = 30;
 
-// let n=2;
-// n+=5; //now n= 7 (same as n = n + 5)
-// n*=2; //now n=14 (same as n = n * 2)
-
-// alert (n); //14
+//   let n=2;
+//   n+=5; //now n= 7 (same as n = n + 5)
+//   n*=2; //now n=14 (same as n = n * 2)
+//  alert (n); //14
 
 //  let x = 1;
 //  x = -x;
@@ -110,9 +109,9 @@
 
 // '1' is string ... therefore value is 12  
 // alert( '1' + 2 ); // "12" 
-// alert( 2 + '1' ); // "21"
+//  alert( 2 + '1' ); // "21"
 
-// alert(2 + 2 + '1' );     
+//  alert(2 + 2 + '1' );     
 
 // 3.string operator   
 // let s = "my" + "string";  
@@ -124,15 +123,15 @@
 // --x pre-decrement ... decrement x by 1 then return x  
 // x-- post-decrement ... return x than decrement by 1
 
-//  let f;  
-//  f = 10;  
-//  console.log(++f); //11  
-//  console.log(f); //11   
+//   let f;  
+//   f = 10;  
+//   console.log(++f); //11  
+//   console.log(f); //11   
 
-//  let g;  
-// g = 12;  
-//  console.log(g++); //12  
-//  console.log(g); //13    
+//   let m;  
+//   m = 12;  
+//   console.log(m++); //12  
+//   console.log(m); //13    
 
 //  let h;  
 //  h = 10;  
@@ -150,11 +149,11 @@
  // ! Logical NOT: true if the operand is false and vice-versa.      
  
 //   AND &&  
-//  const a = true, b = false; 
+//   const m = true, a = false; 
 //   const c = 4; 
-//  console.log(a && a); // true  
-//  console.log(a && b); // false  
-//  console.log((c > 2) && (c < 2)); // false   
+//   console.log(m && m); // true  
+//   console.log(m && a); // false  
+//   console.log((c > 2) && (c < 2)); // false   
 
 // || OR   
 //  const a = true, b = false, c = 4;  
@@ -170,23 +169,26 @@
  // url   
  // https://javascript.info/operators    
  
- // 6. comparison operator   
-//   x=5  
-//   x =="5" //true  
-//   x === "5" //false   
- 
+ // 6. comparison operator  
+
+    x=5  
+     x =="5" //true  
+    // x === "5" //false   
+ console.log (x)
+
  // url   
  // https://www.w3schools.com/js/js_comparisons.asp    
  
  // 7.condition operator  
 //   let company = prompt('which company created javascript?');  
-//   if(company == 'nestscape') //{  
-// console.log("you are right");  // }else{  
-//  console.log("you are wrong");  // }    
+//   if(company == 'nestscape') {  
+//   console.log("you are right");   }
+// else{  
+//   console.log("you are wrong");  }    
 
-// company == 'nestscape' ? 
-//  consol/e.log("you are right") : 
-//  console.log("you are wrong");    
+//  company == 'nestscape' ? 
+//   consol/e.log("you are right") : 
+//   console.log("you are wrong");    
 
 // functions   
 // url   
