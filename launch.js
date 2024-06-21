@@ -23,7 +23,7 @@
 // assign the value "john" to name.
 // copy the value of admin using alert (must output "john")
 // let admin;
-// name="anas"
+// name="aimin"
 // admin=name;
 // alert(admin);
 
@@ -171,10 +171,10 @@
  
  // 6. comparison operator  
 
-    x=5  
-     x =="5" //true  
+    // x=5  
+    // x =="5" //true  
     // x === "5" //false   
- console.log (x)
+    // console.log (x)
 
  // url   
  // https://www.w3schools.com/js/js_comparisons.asp    
@@ -192,7 +192,7 @@
 
 // functions   
 // url   
-// https://javascript.info/function-basics      
+// https://javascript.info/function-basics       
 
 // Array   
 // const fruites = ["Bannana", "Mango", "Orange", "Apple"];  
