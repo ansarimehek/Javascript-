@@ -11,7 +11,7 @@
 // .................. 0 ...... 1 ...... 2 ...
 
 // Using the Array constructor
-// const colors = new Array("red", "green", "blue");
+// const colors = ("red", "green", "blue");
 
 // console.log(fruits[0]); // "apple"
 // console.log(colors[1]); // "banana"
@@ -69,10 +69,10 @@
 // console.log(fruits); // ["banana", "cherry"]
 
 // concat(): Combines two or more arrays and returns a new array.
-const fruits = ["apple", "banana"];
-const color = ["red", "green"];
-const combined = color.concat(fruits);
-console.log(combined); // ["apple", "banana", "red", "green"]
+// const fruits = ["apple", "banana"];
+// const color = ["red", "green"];
+// const combined = color.concat(fruits);
+// console.log(combined); // ["apple", "banana", "red", "green"]
 
 // slice(): Returns a shallow copy of a portion of an array into a new array.
 // const fruits = ["apple", "banana", "cherry", "date"];
