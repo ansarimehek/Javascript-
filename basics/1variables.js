@@ -1,7 +1,7 @@
 // var fullName = "Kiran Kamath";
 // var courseName = "ReactJs BootCamp";
-var isLoggedIn = true;
-var loggedCount = 34;
+// var isLoggedIn = true;
+// var loggedCount = 34;
 
-console.log(isLoggedIn);
-console.log("loggedCount");
+// console.log(isLoggedIn);
+// console.log("loggedCount");
