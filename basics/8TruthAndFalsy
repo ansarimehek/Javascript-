@@ -5,10 +5,13 @@
 // undefined
 // ''
 
-var val = null;
+var val = NaN;
+
 
 if (val) {
-    console.log ("not a falsy value");
- } else {
-console.log ("is a falsy vavalue");
- }
+    console.log("true value"); //true value
+} else {
+    console.log(" falsy value");
+}
+
+// 

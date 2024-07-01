@@ -1,22 +1,24 @@
 // switch case for printing according to roles 
 
-var user = "ak";
+var user = "subadmin";
 
 switch (user) {
     case "admin":
-        console.log ("full access");
+        console.log("full access");
         break;
-        case "user":
-            console.log ("access to c9nsume content");
+    case "user":
+        console.log("access to consume content");
 
-            break;
-            case "testprep":
-                console.log ("full access to see test") ;
-                break;
-                case "subadmin":
-                    console.log ("full access to create or delete course");
-                    break;
-                    default:
-                        console.log ("trial user");
-                        break;
+        break;
+    case "testprep":
+        console.log("full access to see test");
+        break;
+    case "subadmin":
+        console.log("full access to create or delete course");
+        break;
+    default:
+        console.log("trial user name ");
+        break;
 }
+
+// if and else case..... changes in var user

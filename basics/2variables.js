@@ -1,17 +1,20 @@
+// 2 variables
 const id = "abc123";
-var fullName = " lionel mmessi";
-var email = "lionel@lionel@gmail.com";
-var pwd = "123456789";
-var cfmPwd = "1123456789";
-var coursecount = 0;
-var isLoggedInFromisLoggedInFromGoogle = false;
+var fullName = "mehek";
+var email = "lionel@gmail.com";
+var pwd = "123456";
+var cfmPwd = "123456";
+var courseCount = 0;
+var isLoggedInFromGoogle = false;
 
-console.log ("FullName");
+console.log("Fullname is", fullName);
 
-console.log (`
-    Unique Id is : ${id}
-    FullName : ${fullname}
-    Email : ${email}
-    Password : ${pwd}
-
+console.log(`
+      Unique Id is : ${id}
+      Fullname : ${fullName}
+      Email : ${email}
+      Password: ${pwd}
+      
 `);
+
+// string data types of js 
